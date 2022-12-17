@@ -1,0 +1,29 @@
+.quarta{
+    margin-top: 5%;
+    font-size: 28px;
+    text-align: center;
+    justify-content: center;
+    background-color: aliceblue;
+    }
+    .quarta h3{
+        font-size: 120%;
+        color:  black;
+        text-transform: uppercase;
+    
+        
+    
+    }
+    .quarta h1{
+        font-size: 140%;
+        color: #A25A4D;
+        text-transform: uppercase;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    
+        
+    
+    }
+    .Z{
+        height: 500PX;
+        width: 600PX;
+        border-radius: 50%;
+    }
